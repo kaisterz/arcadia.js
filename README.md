@@ -19,6 +19,7 @@ const arcapi = new ARCAPI("xxx"); //Replace xxx to your arcadia's token
 let endpoint = "beautiful"; //Name of an endpoint
 let parameter = "url"; //First parameter of the endpoint (URL/TEXT)
 let url = "https://cdn.discordapp.com/avatars/240508683455299584/c00652df31c98a1e79f536135fb88e76.png?size=2048"; //URL of the image
+
 arcapi.getImage(endpoint, parameter, url).then((buffer) => {
     console.log(buffer); //Buffer
 });
