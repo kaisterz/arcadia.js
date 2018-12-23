@@ -1,7 +1,10 @@
 # arcadia.js
+[![npm installinfo](https://nodei.co/npm/arcadia.js-dev.png?downloads=true&stars=true)](https://www.npmjs.com/package/arcadia.js-dev)<br>
 [![Discord](https://discordapp.com/api/guilds/503501966811332638/widget.png)](https://discord.gg/XdZ8JCz)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/23d516033fe04e2fb1046e00ac93b91c)](https://github.com/Sworder71/arcadia.js)
 [![Vulnerabilities Badge](https://snyk.io/test/github/Sworder71/arcadia.js/badge.svg?targetFile=package.json)](https://github.com/Sworder71/arcadia.js)
+[![npm version](https://img.shields.io/npm/v/arcadia.js-dev.svg?maxAge=3600)](https://www.npmjs.com/package/arcadia.js-dev)
+[![npm downloads](https://img.shields.io/npm/dt/arcadia.js-dev.svg?maxAge=3600)](https://www.npmjs.com/package/arcadia.js-dev)
 
 Here's the official module of **Arcadia** API.
 #### Installation:
