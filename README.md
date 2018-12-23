@@ -5,7 +5,7 @@
 
 Here's the official module of **Arcadia** API.
 #### Installation:
-`$ npm i arcadia.js`
+`$ npm i arcadia.js-dev`
 
 #### Features:
 >- Get image of an endpoint
@@ -15,7 +15,7 @@ Here's the official module of **Arcadia** API.
 
 - Get Image
 ```JS
-const ARCAPI = require("arcadia.js");
+const ARCAPI = require("arcadia.js-dev");
 const arcapi = new ARCAPI("xxx"); //Replace xxx to your arcadia's token
 
 let endpoint = "beautiful"; //Name of an endpoint
@@ -29,7 +29,7 @@ arcapi.getImage(endpoint, parameter, url).then((buffer) => {
 
 - Get Endpoints
 ```JS
-const ARCAPI = require("arcadia.js");
+const ARCAPI = require("arcadia.js-dev");
 const arcapi = new ARCAPI();
 
 arcapi.getEndpoints().then((endpoints) => {
