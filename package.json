@@ -1,0 +1,27 @@
+{
+  "name": "arcadia-api",
+  "version": "0.0.1",
+  "description": "Official module of Arcadia's API",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sworder71/arcadia.js.git"
+  },
+  "keywords": [
+    "JavaScript",
+    "arcadia-api",
+    "api"
+  ],
+  "author": "Sworder",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/Sworder71/arcadia.js/issues"
+  },
+  "homepage": "https://github.com/Sworder71/arcadia.js#readme",
+  "dependencies": {
+    "axios": "^0.18.0"
+  }
+}
