@@ -33,6 +33,6 @@ const ARCAPI = require("arcadia.js-dev");
 const arcapi = new ARCAPI();
 
 arcapi.getEndpoints().then((endpoints) => {
-    console.log(endpoints) //Endpoints Array
+    console.log(endpoints); //Endpoints Array
 });
 ```
